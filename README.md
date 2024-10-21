@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafizh Habiibi</h1>
 <h3 align="center">interested in web and mobile technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhabiibi&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhhabiibi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhabiibi&label=VIEWVERS&color=0027eb&style=plastic" alt="hafizhhabiibi" /> </p>
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizhhabiibi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hafizhhabiibi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizhhabiibi&show_icons=true&locale=en" alt="hafizhhabiibi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizhhabiibi&show_icons=true&theme=tokyonight&locale=en" alt="hafizhhabiibi" /></p>
