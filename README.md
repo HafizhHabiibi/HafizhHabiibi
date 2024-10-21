@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafizh Habiibi</h1>
 <h3 align="center">interested in web and mobile technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhabiibi&label=Profile%20views&color=0e75b6&style=flat" alt="hafizhhabiibi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhabiibi&label=Profile%20views&color=002aff&style=plastic" alt="hafizhhabiibi" /> </p>
 
 - 🔭 I’m currently working on **Toko Kue Kering Bharata Website**
 
@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **hafizhhabiibi123@gmail.com**
 
-- ⚡ Fun fact **Chelsea fan #ktbffh**
+- ⚡ Fun fact **Chelsea fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hafizh habiibi lubis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizh habiibi lubis" height="30" width="40" /></a>
-<a href="https://instagram.com/habiibi_ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="habiibi_ii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hafizh-habiibi-lubis-4572592b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hafizh-habiibi-lubis-4572592b6/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/habiibi_ii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/habiibi_ii/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
