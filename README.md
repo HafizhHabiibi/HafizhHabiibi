@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafizh Habiibi</h1>
-<h3 align="center">interested in web and mobile technology</h3>
+<h3 align="center">Ternak Lele</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizhhabiibi&label=Profile%20views&color=002aff&style=plastic" alt="hafizhhabiibi" /> </p>
 
