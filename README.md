@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafizh Habiibi</h1>
 <h3 align="center">Ternak Lele</h3>
 
-<p align="center">
+<p align="left">
 👨‍🎓 Studying Informatics at Yogyakarta Technology University, Indonesia  <br>
 👩🏻‍💻 Currently Learning Python & MicroPython <br>
 💬 How to Reach Me <br>
@@ -20,7 +20,14 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizhHabiibi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizhHabiibi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HafizhHabiibi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="hafizhhabiibi" />
 </p>
+
+---
+
+# 📊 Most Used Languages:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HafizhHabiibi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="hafizhhabiibi" />
+</p>
+
 
