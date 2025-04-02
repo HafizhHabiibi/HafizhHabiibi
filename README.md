@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafizh Habiibi</h1>
-<h2 align="center">Ngoding? Ternak Lele lah!</h2>
+<h2 align="center">Ngoding ❌ Scroll Fesnuk ✅</h2>
 
 <p align="center">
 👨‍🎓 Studying Informatics at Yogyakarta Technology University, Indonesia  <br>
