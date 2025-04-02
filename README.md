@@ -20,6 +20,6 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=HafizhHabiibi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="hafizhhabiibi" />
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HafizhHabiibi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="hafizhhabiibi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizhHabiibi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="hafizhhabiibi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HafizhHabiibi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="hafizhhabiibi" />
 </p>
